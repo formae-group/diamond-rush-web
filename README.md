@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/icon.svg" alt="Diamond Rush Web" width="128" height="128">
+<img src="docs/images/logo.png" alt="Diamond Rush" width="400">
 
 # Diamond Rush Web
 
